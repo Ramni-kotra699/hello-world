@@ -1,2 +1,2 @@
-# hello-world
-this is my first repository 
+# My name is Ramni Kotra
+This is my first repository 
